@@ -10,7 +10,7 @@ const Moreinfo = () => {
   return (
     <div>
       <Header />
-      <Container fluid>
+      <Container>
               <div className='d-flex justify-content-center'>
                 <Card className="min-vw-75" style={{ backgroundColor: '#e3e3e3', marginTop: 40 }} >
                   <Card.Title className='d-flex justify-content-center' style={{ marginBottom: 0, marginTop: 10 }}></Card.Title>
